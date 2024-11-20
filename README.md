@@ -83,4 +83,4 @@ Le choix entre TCP/IP et UDP dépend des besoins spécifiques :
 ---
 
 ## Auteur
-Ce fichier a été rédigé par **[Adjanke]** dans le cadre d'une étude sur les protocoles réseau.
+Ce fichier a été rédigé par **Adjanke Amah Bernardo Joël** dans le cadre d'une étude sur les protocoles réseau.
